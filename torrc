@@ -3,4 +3,4 @@ Log notice stdout
 SocksPort 0.0.0.0:9150
 DataDirectory /var/lib/tor
 #OnionTrafficOnly 1
-EntryNodes US CA
+EntryNodes US,CA
